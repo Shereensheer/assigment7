@@ -12,8 +12,7 @@ function Hero() {
         Experience  The Best Beauty Services
   </h1>     
         <br className=" text-white  text-sm " />
-        
-  
+      
     
     <div className="flex justify-center">
         <a href='/component/contact'>
