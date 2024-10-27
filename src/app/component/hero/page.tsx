@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import Typewriter from 'typewriter-effect';
+
 function Hero() {
   return (
     <div>
@@ -11,13 +11,7 @@ function Hero() {
       
       
       
-        Experience <Typewriter
-  options={{
-    strings: [' The Best Beauty Services'],
-    autoStart: true,
-    loop: true,
-  }}
-/>
+        Experience  The Best Beauty Services
   </h1>     
         <br className=" text-white  text-sm " />
         
